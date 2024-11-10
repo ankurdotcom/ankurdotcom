@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Ankur Gupta!
 
 ## 🚀 About Me
-I'm a passionate software developer focusing on AI and machine learning. With a solid foundation in JavaScript and TypeScript, I enjoy creating innovative solutions and contributing to open-source projects.
+I'm a dynamic and results-oriented software architect and passionate software developer with 15+ years of hands-on experience, focusing on AI, machine learning, and developing innovative solutions. I have a solid foundation in JavaScript and TypeScript, as well as extensive expertise in Java, Spring Boot, and microservices. I am adept at creating robust, scalable, and secure applications, contributing to open-source projects, and optimizing CI/CD pipelines. With proven leadership skills, I excel in driving end-to-end development processes, enhancing system performance, managing modern cloud infrastructure, and leading cross-functional teams to align technological strategies with business objectives.
 
 ## 🛠️ Technologies & Tools
 - **Architecture & Design**: Expert in Microservices, REST APIs, Cloud-Native Design, Distributed Systems, BFF
